@@ -1,0 +1,12 @@
+html,
+body {
+   font-family: Arial, serif;
+   font-size: 16px;
+   margin: 0;
+   padding: 0;
+}
+
+.avatar{
+   width: 100px;
+   height: 100px;
+}
