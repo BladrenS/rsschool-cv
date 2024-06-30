@@ -78,11 +78,13 @@ body {
 }
 
 .section-title {
+   position: relative;
    margin-bottom: 20px;
    font-size: 24px;
    font-weight: 400;
    text-transform: uppercase;
    color: #404b69;
+   text-align: center;
 }
 
 .section-subtitle {
@@ -100,9 +102,7 @@ body {
 
 .section-item {
    position: relative;
-   margin: 0;
    margin-bottom: 10px;
-   padding: 0;
    padding-left: 35px;
 }
 
