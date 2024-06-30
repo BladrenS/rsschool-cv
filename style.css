@@ -71,9 +71,8 @@ body {
 
 .section-profile-avatar {
    width: 300px;
-   height: 300px;
+   height: 370px;
    object-fit: cover;
-   border-radius: 50%;
    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.6);
 }
 
